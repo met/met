@@ -26,8 +26,16 @@ Here are some ideas to get you started:
 - [Håkon Wium Lie: CSS was created to save HTML](https://www.root.cz/texty/hakon-wium-lie-css-was-created-to-save-html/)
 - [Molly E. Holzschlag: Evangelist and Educator](https://www.zdrojak.cz/clanky/molly-e-holzschlag-evangelist-and-educator/)
 - [David Storey: I believe in web standards](https://www.zdrojak.cz/clanky/david-storey-i-believe-in-web-standards/)
+
+
 </details>
   
 - **I love learning languages**. I speak Czech and English. I’m learning Spanish. I’m interested in Vietnamese, Polish and French.
 - 🔭 I’m currently working on [Subfilter](https://github.com/met/subfilter), a useful tool for improving listening skills in foreign language learning.
 - **My social profiles:** [Twitter](https://twitter.com/hassmanm), [Facebook](https://www.facebook.com/martin.hassman/), [LinkedIn](https://www.linkedin.com/in/hassman/)
+
+<details>
+  <summary>Looking for my e-mail?</summary>
+
+👈 It's in the left column (you need to sign in to GithHub to see it)
+</details>

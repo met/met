@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 **I studied** [University of Chemistry and Technology in Prague](https://www.vscht.cz/?jazyk=en "Faculty of Food and Biochemical Technology, department Department of Biochemistry and Microbiology")
+- 🎓 **I studied** [University of Chemistry and Technology in Prague](https://www.vscht.cz/?jazyk=en "Faculty of Food and Biochemical Technology, Department of Biochemistry and Microbiology")
 - 🥼 **I participated in**: [CZilla](http://www.czilla.cz/ "Czech large community for Mozilla Suite and Mozilla Firefox projects, Post-mortem."),
 [Zdroják](https://www.zdrojak.cz/ "Czech magazine about Web Technologies"), [Dámeroušky](https://www.damerousky.cz/en "Czech project for making and distribution of homemade anti-COVID masks"), [Covid Portál](https://covid.gov.cz/en/ "Czech website made by Government and volunteers about COVID-19"), [Česko.Digital](https://cesko.digital/en.html "Czech non-profit organization for designers and developers focus on improving life in the Czech Republic.")
 - ⚙️ **I can work as**: web developer, copywriter, tech writer, social media manager
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🖧 **My social profiles:** [Twitter](https://twitter.com/hassmanm), [Facebook](https://www.facebook.com/martin.hassman/), [LinkedIn](https://www.linkedin.com/in/hassman/)
 
 <details>
-  <summary>I’m looking for</summary>
+  <summary>🔍 I’m looking for...</summary>
   
   - 🤝 **People to help me with [Subfilter project](https://github.com/met/subfilter) :** testers, UX designers, polyglots and languages teachers, learning scientists, NLP (natural language processing) programmers
   - 🗣️ People for **language exchange**
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 <details>
-  <summary>More information about me</summary>
+  <summary>📜 More information about me...</summary>
 
 - 📘 **My favorite writer** is Neil Gaiman
 - ⚡ **Fun facts:**
@@ -46,11 +46,13 @@ Here are some ideas to get you started:
   - [Håkon Wium Lie: CSS was created to save HTML](https://www.root.cz/texty/hakon-wium-lie-css-was-created-to-save-html/)
   - [Molly E. Holzschlag: Evangelist and Educator](https://www.zdrojak.cz/clanky/molly-e-holzschlag-evangelist-and-educator/)
   - [David Storey: I believe in web standards](https://www.zdrojak.cz/clanky/david-storey-i-believe-in-web-standards/)
-
+- 🎤 My last public talks (in Czech):
+  - [The path to better learning](https://www.youtube.com/watch?v=Iznpfe5KPOc) (45 min talk at Barcamp Plzen)
+  - [How to create addons for World of Warcraft](https://slideslive.com/38921022/jak-se-tvori-addony-pro-world-of-warcraft) (5 min lightning talk at Devel 2019 conference)
 </details>
 
 <details>
-  <summary>📫 Looking for my e-mail?</summary>
+  <summary>📫 Looking for my e-mail? ...</summary>
 
 👈👈👈 It’s in the left column.
 

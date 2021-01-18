@@ -37,5 +37,10 @@ Here are some ideas to get you started:
 <details>
   <summary>Looking for my e-mail?</summary>
 
-👈 It's in the left column (you need to sign in to GithHub to see it)
+👈 It’s in the left column (you need to sign in to GithHub to see it)
+
+<details>
+  <summary>Can’t you see my e-mail?</summary>
+
+  🔐 You need to sign in to GithHub to see it.
 </details>

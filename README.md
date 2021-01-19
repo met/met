@@ -63,4 +63,4 @@ Here are some ideas to get you started:
   </details>
 </details>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=met)
+![GitHub Stats top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=met) ![GitHub Stats person](https://github-readme-stats.vercel.app/api?username=met)

@@ -57,8 +57,10 @@ Here are some ideas to get you started:
 👈👈👈 It’s in the left column.
 
   <details>
-    <summary>❓ Still can’t see my e-mail ❓</summary>
+    <summary>❓ Still can’t see my e-mail? ❓</summary>
 
     🔐 You need to sign in to GitHub to see my e-mail. (Try, it’s free.)
   </details>
 </details>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=met)

@@ -41,14 +41,14 @@ Here are some ideas to get you started:
   - I have never attended any hackathon, but I have organized three.
   - I founded magazine Zdroják by mistake.
   - During my studies I wrote two fairy tales about biochemistry, that got published in the Czech Bulletin of Biochemistry and were printed in many research institutes in the Czech Republic. During my university exams, some examiners asked me suspiciously: _Are you the guy who wrote that story about Cinderella enzyme?_
-  - I also wrote two scripts for theatre plays. Both had a chemical topic. One of them was rehearsed and played by children from a basic school, that do not know chemistry at all.
-- ✍️ **I love** meeting people contributing to the World Wide Web and doing interviews with them. My favorites:
+  - I have also written two scripts for theatre plays. Both had a chemical topic. One of them was rehearsed and played by children from a basic school, that did not know chemistry at all.
+- ✍️ **I like** meeting with people contributing to the World Wide Web and I love doing interviews with them. My favorites:
   - [Håkon Wium Lie: CSS was created to save HTML](https://www.root.cz/texty/hakon-wium-lie-css-was-created-to-save-html/)
   - [Molly E. Holzschlag: Evangelist and Educator](https://www.zdrojak.cz/clanky/molly-e-holzschlag-evangelist-and-educator/)
   - [David Storey: I believe in web standards](https://www.zdrojak.cz/clanky/david-storey-i-believe-in-web-standards/)
-- 🎤 My last public talks (in Czech):
-  - [The path to better learning](https://www.youtube.com/watch?v=Iznpfe5KPOc) (45 min talk at Barcamp Plzen)
-  - [How to create addons for World of Warcraft](https://slideslive.com/38921022/jak-se-tvori-addony-pro-world-of-warcraft) (5 min lightning talk at Devel 2019 conference)
+- 🎤 **My last public talks** (in Czech):
+  - [The path to better learning](https://www.youtube.com/watch?v=Iznpfe5KPOc) (45min talk at Barcamp Plzen 2019)
+  - [How to create addons for World of Warcraft](https://slideslive.com/38921022/jak-se-tvori-addony-pro-world-of-warcraft) (5min lightning talk at Devel 2019 conference)
 </details>
 
 <details>

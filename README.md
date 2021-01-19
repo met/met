@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚙️ **I can work as**: web developer, copywriter, tech writer, social media manager
 - 📣 **I helped organized conferences:** WebExpo, aDevCamp, mDevCamp, Devel.cz
 - 🌍 **I love learning languages**. I speak Czech and English. I’m learning Spanish. I’m interested in Vietnamese, Polish and French.
-- 🔭 **I’m currently working** on [Subfilter](https://github.com/met/subfilter), a free useful tool for improving listening skills in foreign language learning.
+- 🔭 **I’m currently working** on [Subfilter](https://github.com/met/subfilter), a free useful tool for improving listening skills in foreign language learning. 👀 Read its [story](https://github.com/met/subfilter/wiki/My-story).
 - 🖧 **My social profiles:** [Twitter](https://twitter.com/hassmanm), [Facebook](https://www.facebook.com/martin.hassman/), [LinkedIn](https://www.linkedin.com/in/hassman/)
 
 <details>

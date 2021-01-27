@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - ⚡ **Fun facts:**
   - I have never attended any hackathon, but I have organized three.
   - I founded magazine Zdroják by mistake.
-  - During my studies I wrote two fairy tales about biochemistry, that got published in the Czech Bulletin of Biochemistry and were printed in many research institutes in the Czech Republic. During my university exams, some examiners asked me suspiciously: _Are you the guy who wrote that story about Cinderella enzyme?_
+  - During my studies I wrote two fairy tales about biochemistry, that got published in the Czech Bulletin of Biochemistry and were printed in several research institutes in the Czech Republic. During my university exams, some examiners asked me suspiciously: _Are you the guy who wrote that story about Cinderella enzyme?_
   - I have also written two scripts for theatre plays. Both had a chemical topic. One of them was rehearsed and played by children from a basic school, that did not know chemistry at all.
 - ✍️ **I like** meeting with people contributing to the World Wide Web and I love doing interviews with them. My favorites:
   - [Håkon Wium Lie: CSS was created to save HTML](https://www.root.cz/texty/hakon-wium-lie-css-was-created-to-save-html/)

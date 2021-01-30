@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary>My CV</summary>
+  
 <details>
   <summary>My 1st job, Nette tester at Nette Packard Enterpise</summary>
 

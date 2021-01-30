@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![profilovka-upload](https://user-images.githubusercontent.com/59498/106358801-b1e1f680-630e-11eb-8e47-bc8b84bd53e0.jpg)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=met)](https://github.com/anuraghazra/github-readme-stats)
+

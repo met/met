@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [Zdroják](https://www.zdrojak.cz/ "Czech magazine about Web Technologies"), [Dámeroušky](https://www.damerousky.cz/en "Czech project for making and distribution of homemade anti-COVID masks"), [Covid Portál](https://covid.gov.cz/en/ "Czech website made by Government and volunteers about COVID-19"), [Česko.Digital](https://cesko.digital/en/ "Czech non-profit organization for designers and developers focus on improving life in the Czech Republic."), [Movapp](https://www.movapp.cz/ "Open source project helping Ukraininan refugees and local people to communicate to each other and learn languages.").
 - ⚙️ **I can work as**: web developer, copywriter, tech writer, social media manager.
 - 📣 **I helped organize conferences:** WebExpo, aDevCamp, mDevCamp, Devel.cz.
-- 🌍 **I love learning languages**. I speak Czech and English. I’m learning Spanish. I’m interested in Vietnamese, Polish and French.
+- 🌍 **I love learning languages**. I speak fluently Czech, English and Spanish. I’m learning Ukrainian, German and Vietnamese, I’m also interested in Polish and French.
 - 🔭 **I’m currently working** on [Subfilter](https://github.com/met/subfilter), a free useful tool for improving listening skills in foreign language learning. 👀 Read its [story](https://github.com/met/subfilter/wiki/My-story).
 - 🖧 **My social profiles:** [Twitter](https://twitter.com/hassmanm), [Facebook](https://www.facebook.com/martin.hassman/), [LinkedIn](https://www.linkedin.com/in/hassman/).
 

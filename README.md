@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 **I studied** [University of Chemistry and Technology in Prague](https://www.vscht.cz/?jazyk=en "Faculty of Food and Biochemical Technology, Department of Biochemistry and Microbiology")
+- 🎓 **I studied** [University of Chemistry and Technology in Prague](https://www.vscht.cz/?jazyk=en "Faculty of Food and Biochemical Technology, Department of Biochemistry and Microbiology").
 - 🥼 **I participated in**: [CZilla](http://www.czilla.cz/ "Czech large community for Mozilla Suite and Mozilla Firefox projects, Post-mortem."),
-[Zdroják](https://www.zdrojak.cz/ "Czech magazine about Web Technologies"), [Dámeroušky](https://www.damerousky.cz/en "Czech project for making and distribution of homemade anti-COVID masks"), [Covid Portál](https://covid.gov.cz/en/ "Czech website made by Government and volunteers about COVID-19"), [Česko.Digital](https://cesko.digital/en/ "Czech non-profit organization for designers and developers focus on improving life in the Czech Republic.")
-- ⚙️ **I can work as**: web developer, copywriter, tech writer, social media manager
-- 📣 **I helped organize conferences:** WebExpo, aDevCamp, mDevCamp, Devel.cz
+[Zdroják](https://www.zdrojak.cz/ "Czech magazine about Web Technologies"), [Dámeroušky](https://www.damerousky.cz/en "Czech project for making and distribution of homemade anti-COVID masks"), [Covid Portál](https://covid.gov.cz/en/ "Czech website made by Government and volunteers about COVID-19"), [Česko.Digital](https://cesko.digital/en/ "Czech non-profit organization for designers and developers focus on improving life in the Czech Republic."), [Movapp](https://www.movapp.cz/ "Open source project helping Ukraininan refugees and local people to communicate to each other and learn languages.").
+- ⚙️ **I can work as**: web developer, copywriter, tech writer, social media manager.
+- 📣 **I helped organize conferences:** WebExpo, aDevCamp, mDevCamp, Devel.cz.
 - 🌍 **I love learning languages**. I speak Czech and English. I’m learning Spanish. I’m interested in Vietnamese, Polish and French.
 - 🔭 **I’m currently working** on [Subfilter](https://github.com/met/subfilter), a free useful tool for improving listening skills in foreign language learning. 👀 Read its [story](https://github.com/met/subfilter/wiki/My-story).
-- 🖧 **My social profiles:** [Twitter](https://twitter.com/hassmanm), [Facebook](https://www.facebook.com/martin.hassman/), [LinkedIn](https://www.linkedin.com/in/hassman/)
+- 🖧 **My social profiles:** [Twitter](https://twitter.com/hassmanm), [Facebook](https://www.facebook.com/martin.hassman/), [LinkedIn](https://www.linkedin.com/in/hassman/).
 
 <details>
   <summary>🔍 I’m looking for...</summary>

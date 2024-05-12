@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🎓 **I studied** [University of Chemistry and Technology in Prague](https://www.vscht.cz/?jazyk=en "Faculty of Food and Biochemical Technology, Department of Biochemistry and Microbiology").
 - 🥼 **I participated in**: [CZilla](http://www.czilla.cz/ "Czech large community for Mozilla Suite and Mozilla Firefox projects, Post-mortem."),
 [Zdroják](https://www.zdrojak.cz/ "Czech magazine about Web Technologies"), [Česko.Digital](https://cesko.digital/en/ "Czech non-profit organization for focused on improving life in the Czech Republic."), [Dámeroušky](https://www.damerousky.cz/en "Czech project for making and distribution of homemade anti-COVID masks"), [Covid Portál](https://covid.gov.cz/en/ "Czech website made by Government and volunteers about COVID-19"), [Movapp](https://www.movapp.cz/ "Open source project helping Ukraininan refugees and local people to communicate to each other and learn languages.").
-- ⚙️ **I can work as**: web developer, copywriter, tech writer, social media manager, team leader, community manager.
+- ⚙️ **I can work as**: web developer, copywriter, tech writer, team leader, community manager, product manager, product owner, scrum master.
 - 📣 **I helped organize conferences:** WebExpo, aDevCamp, mDevCamp, Devel.cz.
 - 🌍 **I love learning languages**. I speak fluently Czech, English and Spanish. I’m learning Ukrainian, German and Vietnamese, I’m also interested in Polish and French and more.
 - 🔭 **I’m currently working** on [Subfilter](https://github.com/met/subfilter), a free useful tool for improving listening skills in foreign language learning. 👀 Read its [story](https://github.com/met/subfilter/wiki/My-story).

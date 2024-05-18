@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   - [How to create addons for World of Warcraft](https://slideslive.com/38921022/jak-se-tvori-addony-pro-world-of-warcraft) (5min lightning talk at Devel 2019 conference)
 </details>
 
-
+<!--
 <details>
   <summary>🔍 I’m looking for...</summary>
   
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   - 🗣️ People for **language exchange**
   - 🧥 **The black GTUG jacket** that I got as a reward for organizing [Google Developer Day Hackathon 2010 in Prague](https://docs.google.com/document/d/1leQN0xSvS1El-HMR0SlbFMHQtuxRQPGmU-EDxePwaiM/preview) and forget it somewhere.
 </details>
-
+-->
 
 <details>
   <summary>📚 GitHub details...</summary>
